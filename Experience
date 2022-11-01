@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang = "en" dir = "ltr">
+<meta charset="utf-8">
+<title> About Giavanna Bravo</title> 
+<head>
+<style>
+.topnav {
+  overflow: hidden;
+  text-align:left;
+}  
+
+  .center {
+    text-align:center;
+    display:block;
+ }
+  
+  .header {
+height: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+body {
+    background-image: url("babyblue.jpg");
+    background-size: cover;
+}
+#main {
+        width= 1010px;
+        height= 1010px;
+        background-color: #fff;
+        margin: 0 auto;
+        border: 1px solid #000;
+      }
+
+      #banner{
+        width:1010px;
+      }
+      nav {
+        width: 1010px;
+        height: 500px;
+        padding: 0;
+        list-style-type: none;
+      }
+
+      .nav {
+        display: table-cell;
+        width: 500px;
+        height: 50px;
+        text-align: center;
+        vertical-align: middle;
+      }
+
+      a{
+        text-decoration: none;
+        color: #fff;
+        font-size: 140%
+      }
+</style>
+</head>  
+<body>
+     <div class= "top-nav">
+      <ul style="list-style: none;">
+        <li>Home</li>
+        <li>Experience</li>
+    </ul>
+    <div class = "header">
+    <h1 style = "font-family: Arial;font-size = 300; text-align:center"> LOL Giavanna Bravo </h1>
+      </div>
+    </div>
+  <div class = "center">
+    <p style = "font-family: Arial;font-size = 150; text-align:center"> Experience
+ </p> 
+  </div>
+  
+ </body>
+</html>
