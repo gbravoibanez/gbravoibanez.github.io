@@ -60,7 +60,7 @@ body {
 <body>
      <div class= "top-nav">
       <ul style="list-style: none;">
-        <li>Home</li>
+        <li><a href="index.html">Home<a></li>
         <li>Experience</li>
     </ul>
     <div class = "header">
