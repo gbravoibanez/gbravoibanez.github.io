@@ -1,0 +1,3 @@
+https://gbravoibanez.github.io/sitemap.xml
+User-agent: G
+Allow: /G
